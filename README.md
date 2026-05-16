@@ -12,7 +12,7 @@ The chatbot supports:
 
 ## Demo
 
-![Demo](assets/demo.gif)
+![Demo](/demo.gif)
 
 ---
 
